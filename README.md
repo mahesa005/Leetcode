@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahesa005/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/mahesa005/Leetcode/tree/master/0027-remove-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mahesa005/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/mahesa005/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -46,5 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mahesa005/Leetcode/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/mahesa005/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
