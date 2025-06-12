@@ -7,6 +7,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mahesa005/Leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/mahesa005/Leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mahesa005/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/mahesa005/Leetcode/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
@@ -101,4 +102,13 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mahesa005/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mahesa005/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/mahesa005/Leetcode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mahesa005/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mahesa005/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
