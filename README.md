@@ -36,6 +36,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/mahesa005/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/mahesa005/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -53,6 +54,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mahesa005/Leetcode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/mahesa005/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/mahesa005/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
