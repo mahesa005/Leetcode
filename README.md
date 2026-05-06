@@ -25,6 +25,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahesa005/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/mahesa005/Leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,6 +37,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mahesa005/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mahesa005/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/mahesa005/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -117,4 +119,8 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/mahesa005/Leetcode/tree/master/0607-sales-person) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mahesa005/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
