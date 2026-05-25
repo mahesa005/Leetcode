@@ -19,6 +19,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | ------- |
 | [0001-two-sum](https://github.com/mahesa005/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mahesa005/Leetcode/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahesa005/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1603-running-sum-of-1d-array](https://github.com/mahesa005/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/mahesa005/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -114,6 +115,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahesa005/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/mahesa005/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
