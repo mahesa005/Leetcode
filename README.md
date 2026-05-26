@@ -19,6 +19,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | ------- |
 | [0001-two-sum](https://github.com/mahesa005/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mahesa005/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/mahesa005/Leetcode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahesa005/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1603-running-sum-of-1d-array](https://github.com/mahesa005/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahesa005/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/mahesa005/Leetcode/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/mahesa005/Leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
@@ -35,6 +37,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mahesa005/Leetcode/tree/master/0036-valid-sudoku) |
 | [1791-richest-customer-wealth](https://github.com/mahesa005/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## String
 |  |
