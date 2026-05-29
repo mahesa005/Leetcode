@@ -30,6 +30,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahesa005/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahesa005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/mahesa005/Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/mahesa005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/mahesa005/Leetcode/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahesa005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/mahesa005/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mahesa005/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mahesa005/Leetcode/tree/master/0344-reverse-string) |
@@ -148,4 +150,8 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahesa005/Leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahesa005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
