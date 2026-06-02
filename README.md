@@ -80,6 +80,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | [0094-binary-tree-inorder-traversal](https://github.com/mahesa005/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mahesa005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahesa005/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/mahesa005/Leetcode/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -156,4 +157,8 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahesa005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mahesa005/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
