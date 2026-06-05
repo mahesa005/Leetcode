@@ -24,6 +24,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahesa005/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mahesa005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/mahesa005/Leetcode/tree/master/0704-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/mahesa005/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/mahesa005/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -145,6 +146,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/mahesa005/Leetcode/tree/master/0704-binary-search) |
 ## Union-Find
 |  |
 | ------- |
