@@ -25,6 +25,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | [0128-longest-consecutive-sequence](https://github.com/mahesa005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/mahesa005/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/mahesa005/Leetcode/tree/master/0739-daily-temperatures) |
 | [1603-running-sum-of-1d-array](https://github.com/mahesa005/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/mahesa005/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -82,6 +83,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | [0144-binary-tree-preorder-traversal](https://github.com/mahesa005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahesa005/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/mahesa005/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/mahesa005/Leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -163,4 +165,8 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mahesa005/Leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mahesa005/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
