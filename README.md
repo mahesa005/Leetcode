@@ -27,6 +27,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/mahesa005/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/mahesa005/Leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/mahesa005/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1603-running-sum-of-1d-array](https://github.com/mahesa005/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/mahesa005/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -152,6 +153,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | [0074-search-a-2d-matrix](https://github.com/mahesa005/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/mahesa005/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mahesa005/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Union-Find
 |  |
 | ------- |
