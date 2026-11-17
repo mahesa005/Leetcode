@@ -22,6 +22,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | [0027-remove-element](https://github.com/mahesa005/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/mahesa005/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/mahesa005/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/mahesa005/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahesa005/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mahesa005/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -74,6 +75,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahesa005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mahesa005/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/mahesa005/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mahesa005/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesa005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/mahesa005/Leetcode/tree/master/0344-reverse-string) |
@@ -146,6 +148,7 @@ All problems i've solved on Leetcode! - Created using [LeetHub v2](https://githu
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mahesa005/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/mahesa005/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
